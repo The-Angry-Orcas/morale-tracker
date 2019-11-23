@@ -11,7 +11,12 @@ const App = () => {
         {moraleSelection === "" ? (
           <ButtonGrid setMoraleSelection={setMoraleSelection} />
         ) : (
-          <p>{moraleSelection} 🙌</p>
+          <p>
+            {moraleSelection}
+            <span role='img' aria-label='thumbs up'>
+              🙌
+            </span>
+          </p>
         )}
       </header>
     </div>
