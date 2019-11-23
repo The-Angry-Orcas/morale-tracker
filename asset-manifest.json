@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/morale-tracker/static/css/main.ca180a33.chunk.css",
+    "main.js": "/morale-tracker/static/js/main.d8fc55c0.chunk.js",
+    "main.js.map": "/morale-tracker/static/js/main.d8fc55c0.chunk.js.map",
+    "runtime-main.js": "/morale-tracker/static/js/runtime-main.c708e7f7.js",
+    "runtime-main.js.map": "/morale-tracker/static/js/runtime-main.c708e7f7.js.map",
+    "static/js/2.77ecf9d0.chunk.js": "/morale-tracker/static/js/2.77ecf9d0.chunk.js",
+    "static/js/2.77ecf9d0.chunk.js.map": "/morale-tracker/static/js/2.77ecf9d0.chunk.js.map",
+    "index.html": "/morale-tracker/index.html",
+    "precache-manifest.54848e7e0dc1f0c911a2c6be1730d9c6.js": "/morale-tracker/precache-manifest.54848e7e0dc1f0c911a2c6be1730d9c6.js",
+    "service-worker.js": "/morale-tracker/service-worker.js",
+    "static/css/main.ca180a33.chunk.css.map": "/morale-tracker/static/css/main.ca180a33.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c708e7f7.js",
+    "static/js/2.77ecf9d0.chunk.js",
+    "static/css/main.ca180a33.chunk.css",
+    "static/js/main.d8fc55c0.chunk.js"
+  ]
+}
